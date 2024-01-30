@@ -1,0 +1,35 @@
+body {
+  margin-top: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+#myTopnav {
+  width: 100%;
+  background-color: gold;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: orange;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+main {
+  margin-top: 50px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: orangered;
+  color: white;
+  text-align: center;
+}
